@@ -1,0 +1,25 @@
+[BEGIN]
+
+-Made by TatsumaYakoshi
+
+Implosion Modded Save:
+
+Load game at least Once & Close before Patching
+
+(Needs ROOT)
+
+Features:
+
+infinite Money
+
+https://YouTube.com/TatsumaYakoshi
+
+https://Instagram.com/TatsumaYakoshi
+
+[COPY_FILE]
+{"file_name":"user_profile.json"}
+
+{"to":"/sdcard/android/data/com.rayark.implosion/files/user_profile.json"}
+[END]
+
+Save Edited Enjoy 
